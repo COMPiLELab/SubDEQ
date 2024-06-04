@@ -1,0 +1,20 @@
+decorator==5.1.1
+matplotlib==3.7.2
+networkx==3.2.1
+numpy==1.25.2
+packaging==23.1
+pandas==2.0.3
+scikit-learn==1.4.0
+scipy==1.11.1
+seaborn==0.12.2
+torch==2.1.1
+torch-cluster==1.6.3
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch_geometric @ git+https://github.com/pyg-team/pytorch_geometric.git@51c57da51d45c19497d393cc678c215eb341b3b4
+torchaudio==2.1.1
+torchdiffeq==0.2.3
+torchvision==0.16.1
+tornado==6.3.3
+tqdm==4.66.1
+
