@@ -1,8 +1,6 @@
 # Subhomogeneous Deep Equilibrium Models (SubDEQ)
 
-Code release for **Subhomogeneous Deep Equilibrium Models (ICML 2024)**.
-
-[[paper]](https://arxiv.org/pdf/2403.00720)
+Code release for **Subhomogeneous Deep Equilibrium Models (ICML 2024)**. [[paper]](https://arxiv.org/pdf/2403.00720)
 
 ## Requirements
 Can install with `pip install -r requirements.txt`.
