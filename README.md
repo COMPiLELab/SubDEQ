@@ -8,7 +8,7 @@ Can install with `pip install -r requirements.txt`.
 ## Getting started
 run `main.py` to re-do our experiments on MNIST, CIFAR100, SVHN, and Tiny ImageNe using the SubDEQ.
 
-In the appnp folder run `train.py` to re-do our experiments on Cora citation, Cora author, CiteSeer, DBLP, and PubMed using the SubDEQ GNN.
+run `train.py` to re-do our experiments on Cora citation, Cora author, CiteSeer, DBLP, and PubMed using the SubDEQ GNN.
 
 ## Acknowledgement
 The implementation of SubDEQ is based on [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](https://implicit-layers-tutorial.org/).
